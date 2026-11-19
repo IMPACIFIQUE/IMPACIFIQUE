@@ -1,1 +1,1 @@
-https://readme-glimpse-studio.lovable.app
+[🌐 Visit my interactive portfolio](https://readme-glimpse-studio.lovable.app)
