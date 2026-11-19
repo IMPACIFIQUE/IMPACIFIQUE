@@ -1,1 +1,7 @@
-[🌐 Visit my interactive portfolio](https://readme-glimpse-studio.lovable.app)
+<p align="center">
+  <img src="banner.svg" alt="Hi, I'm Pacifique - Web Developer & Vibe Coder" width="640">
+</p>
+
+## About Me
+Hi, I'm Pacifique, a Web Developer and Vibe Coder.
+I use HTML, CSS, JavaScript, PHP, Node.js, Vue, Git and GitHub.
